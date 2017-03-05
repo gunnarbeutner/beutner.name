@@ -1,1 +1,10 @@
 theme: jekyll-theme-dinky
+
+title: Gunnar Beutner
+author:
+  name: Gunnar Beutner
+  email: gunnar@beutner.name
+  github: gunnarbeutner
+  twitter: gunnarbeutner
+
+url: https://beutner.name/
