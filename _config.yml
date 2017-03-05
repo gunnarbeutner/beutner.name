@@ -1,7 +1,8 @@
 # Site settings
 name: Gunnar Beutner
+title: Gunnar Beutner
 #description: "Nifty little description"
-url: "https://beutner.name/"
+url: "https://beutner.name/about/"
 
 
 # Delete the lines you don't need
