@@ -28,6 +28,7 @@ flickr_username: gunnarbeutner
 #blog_url: "https://blog.beutner.name/"
 email: gunnar@beutner.name
 public_key_url: "http://pgp.mit.edu/pks/lookup?op=vindex&search=0x5FE2AAC9EE8E0720"
+cv_url: "cv.pdf"
 
 
 avatar: yes

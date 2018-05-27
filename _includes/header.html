@@ -90,5 +90,9 @@
             {% if site.public_key_url %}
             <li><a class="fa fa-2x fa-key" href="{{ site.public_key_url }}"><span class="description">PGP Key</span></a></li>
             {% endif %}
+
+            {% if site.cv_url %}
+            <li><a class="fa fa-2x" href="{{ site.cv_url }}"><img src="imgs/cv.png" style="height: 27px; width: 22px;" /><span class="description">Curriculum Vitae</span></a></li>
+            {% endif %}
         </ul>
 </div>
