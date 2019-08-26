@@ -27,7 +27,7 @@ flickr_username: gunnarbeutner
 #lastfm_username: your_lastfm_username_goes_here
 #blog_url: "https://blog.beutner.name/"
 email: gunnar@beutner.name
-public_key_url: "https://pgp.mit.edu/pks/lookup?op=vindex&search=0x5FE2AAC9EE8E0720"
+public_key_url: "https://keys.openpgp.org/vks/v1/by-fingerprint/FB2624346C3577F8344E2F075FE2AAC9EE8E0720"
 cv_url: "cv.pdf"
 
 
